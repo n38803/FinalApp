@@ -11,10 +11,6 @@ console.log("JQUERY Page Init");
 		alert("Function Currently Unavailable - Please make another selection");
 		
   	}; // end instagram form submit	
-	
-	var instaPopulate = function(){
-		
-
 
 	var instaSubmit = function(){
 
